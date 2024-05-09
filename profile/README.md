@@ -9,7 +9,7 @@ $FRENS, operated by Degen Duck and his community, aims to challenge and profit i
 - **Strategic Partnerships**: Alignments with key players in the sports betting industry aim to bolster the project's sustainability and expansion.
 
 #### How to Buy
-1. Visit Uniswap.
+1. [Visit Uniswap](https://app.uniswap.org/swap?outputCurrency=0x72d1eb99bebadc114c52526f55c9bbad5870dd5c&inputCurrency=ETH).
 2. Use the contract address (0x72d1eb99bebadc114c52526f55c9bbad5870dd5c) to swap ETH for $FRENS tokens.
 3. Add the $FRENS contract address to your Metamask Wallet to view your $FRENS tokens.
 
