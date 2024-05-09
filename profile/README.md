@@ -14,14 +14,7 @@ $FRENS, operated by Degen Duck and his community, aims to challenge and profit i
 3. Add the $FRENS contract address to your Metamask Wallet to view your $FRENS tokens.
 
 #### Roadmap Highlights
-- **Launching $FRENS Sportsbook**: An upcoming feature that will integrate directly with their tokenomics and community-driven betting strategies.
-
-#### Tokenomics
-- **Total Supply**: 1 Billion Tokens
-- **Allocation**: Details on allocation (e.g., team, marketing, reserve) are not specified here but are crucial for potential investors to understand the distribution and lock-up periods.
-
-#### White Paper
-A detailed white paper should ideally cover the project's vision, technical aspects, strategic growth plans, and detailed tokenomics but is not provided in the text.
+- **Launching $FRENS Sportsbook**: Community-driven betting strategies.
 
 #### FAQs
 For further inquiries or detailed information, contact can be made via email: info@DEGENFRENS.HOUSE.
